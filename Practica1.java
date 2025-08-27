@@ -56,4 +56,5 @@ public class EcuacionLineal {
         
         scanner.close();
     }
+
 }
